@@ -1,0 +1,32 @@
+Tiled (Map Editor)
+itch.io (Graphics)
+
+Date Started: June 27, 2022
+Date Finished: 
+
+1. Map Creation with Tiled Map Editor:
+	-Download and Setup
+		-Find Assets
+		-Download Tiled
+		-Import into Project
+	-Tile Layering for Water and Island
+	-Tile Layering for a Plateau and Lake
+	-Tile Layering for a House
+	-Layering and Placement of Trees
+	-Landscape Details
+	-Collisions and Map Boundaries
+	-Foreground Layers
+	-Exporting Layers for Project Import
+2. Player and Map Development:
+	-Project Setup
+	-Import and Render Map
+	-Player Creation
+	-Move Player Through Map on Key Down
+	-Player-to-Map Boundary Collisions
+	-Foreground Objects
+	-Player Movement Animation
+3. Battle Sequences:
+	-Battle Activation
+	-Transition from Map to Battle Sequence
+	-Draw Battle Background
+	-Add Battle Sprites

@@ -1,8 +1,12 @@
 Tiled (Map Editor)
-itch.io (Graphics)
+itch.io (Graphics and Audio)
+gsap cdn (JavaScript Library for Animation)
+howler js cdn (JavaScript Library for Audio)
+Google Fonts (Fonts)
 
 Date Started: June 27, 2022
-Date Finished: 
+Date Finished: July 9, 2022
+Duration: 12 days
 
 1. Map Creation with Tiled Map Editor:
 	-Download and Setup
@@ -30,3 +34,14 @@ Date Finished:
 	-Transition from Map to Battle Sequence
 	-Draw Battle Background
 	-Add Battle Sprites
+	-Add Attack Bar Interface
+	-Add Health Bar Interface
+	-Attacks - Tackle
+	-Attacks - Fireball
+	-Queueing Dialogue
+	-Populating attacks based on chosen monster
+	-Randomizing attacks
+	-Display attack type
+	-Battle End
+	-Transition Back to Map
+	-Music and Sound Effects

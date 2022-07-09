@@ -3,8 +3,8 @@
  <editorsettings>
   <export format="json"/>
  </editorsettings>
- <tileset firstgid="1" source="../Game Assets/Pokemon Style Game Tileset.tsx"/>
- <tileset firstgid="1025" source="../Game Assets/Collision Tileset.tsx"/>
+ <tileset firstgid="1" source="Pokemon Style Game Tileset.tsx"/>
+ <tileset firstgid="1025" source="Collision Tileset.tsx"/>
  <layer id="1" name="Water" width="70" height="40">
   <data encoding="csv">
 503,473,505,440,473,441,439,439,441,471,471,471,471,471,471,441,473,471,504,471,471,439,440,503,439,472,505,471,439,440,504,503,505,472,439,473,471,472,503,439,503,471,472,504,439,504,439,473,441,505,504,503,503,503,503,471,505,439,503,441,505,439,440,439,473,505,503,504,473,471,
